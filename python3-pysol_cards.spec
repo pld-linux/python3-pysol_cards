@@ -3,7 +3,7 @@ Summary:	Deal PySol FC Cards
 # Name must match the python module/package name (as on pypi or in 'import' statement)
 Name:		python3-%{module}
 Version:	0.14.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pysol-cards/
